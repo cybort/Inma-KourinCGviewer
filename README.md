@@ -1,4 +1,4 @@
-# Inma-KourinCGviewer
+﻿# Inma-KourinCGviewer
 某红色DMM页游的CG阅读器
 
 暂时没有提取功能
@@ -7,7 +7,7 @@
 
 读取动画后点击图片即可播放
 
-A CGviewer for one red dmm's game.
+A CGviewer for a red dmm's game.
 Cannot save pic now.
 Input the id in album into the textbox.
 
