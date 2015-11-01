@@ -62,8 +62,6 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
-            this.pictureBox1.LoadCompleted += new System.ComponentModel.AsyncCompletedEventHandler(this.pictureBox1_LoadCompleted);
-            this.pictureBox1.LoadProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.pictureBox1_LoadProgressChanged);
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // pictureBox2
@@ -74,8 +72,6 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
-            this.pictureBox2.LoadCompleted += new System.ComponentModel.AsyncCompletedEventHandler(this.pictureBox2_LoadCompleted);
-            this.pictureBox2.LoadProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.pictureBox2_LoadProgressChanged);
             // 
             // textBox1
             // 
@@ -115,8 +111,6 @@
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 7;
             this.pictureBox4.TabStop = false;
-            this.pictureBox4.LoadCompleted += new System.ComponentModel.AsyncCompletedEventHandler(this.pictureBox4_LoadCompleted);
-            this.pictureBox4.LoadProgressChanged += new System.ComponentModel.ProgressChangedEventHandler(this.pictureBox4_LoadProgressChanged);
             this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // progressBar1
@@ -182,7 +176,6 @@
             this.button4.TabIndex = 14;
             this.button4.Text = "加载动画";
             this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // pictureBox3
             // 

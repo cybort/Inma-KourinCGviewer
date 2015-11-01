@@ -1,0 +1,23 @@
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.csprojResolveAssemblyReference.cache
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\CGviewer.Properties.Resources.resources
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.csproj.GenerateResource.Cache
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.exe
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.pdb
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Inma-KourinCGviewer.exe.config
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Inma-KourinCGviewer.exe
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Inma-KourinCGviewer.pdb
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\JumpKick.HttpLib.dll
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\NuGet.exe
+C:\Users\Yukimir\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\JumpKick.HttpLib.pdb
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\bin\Debug\Inma-KourinCGviewer.exe.config
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.exe
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.pdb
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.csprojResolveAssemblyReference.cache
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\obj\Debug\CGviewer.Properties.Resources.resources
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\obj\Debug\Inma-KourinCGviewer.csproj.GenerateResource.Cache
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\bin\Debug\Inma-KourinCGviewer.exe
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\bin\Debug\Inma-KourinCGviewer.pdb
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\bin\Debug\JumpKick.HttpLib.dll
+C:\Users\Yukimir\Documents\GitHub\Inma-KourinCGviewer\WindowsFormsApplication3\bin\Debug\JumpKick.HttpLib.pdb
